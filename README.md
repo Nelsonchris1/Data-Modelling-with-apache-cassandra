@@ -18,7 +18,7 @@ Below are steps you can follow to complete each component of this project.
 5. Include IF NOT EXISTS clauses in your CREATE statements to create tables only if the tables do not already exist.
 5. Test by running the proper select statements with the correct WHERE clause
 
-Since Data Modelling in Apache Cassandra follows the on table one query rule, Different tables were created to suit different queries
+Since Data Modelling in Apache Cassandra follows the one table one query rule, Different tables were created to suit different queries
 
  Tables include
  1. Song_library with partition as sessionId and clustering column as itemInSession
