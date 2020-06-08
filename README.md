@@ -10,6 +10,10 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 Project Steps
 Below are steps you can follow to complete each component of this project.
 
+## INFO
+Apache Cassandra is an open source NOSQL database built with a masterclass architecture and linear scalability. 
+NOSQL database can store larger amount of data than relational databases.
+
 ### Project Steps:
 1.Design tables to answer the queries outlined in the project template
 2. Write Apache Cassandra CREATE KEYSPACE and SET KEYSPACE statements
